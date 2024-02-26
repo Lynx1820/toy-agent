@@ -1,0 +1,11 @@
+duffel_api_key: 
+openai_api_key: 
+test_person:
+  phone_number: "+14155552671"
+  email: amelia@duffel.com
+  title:  ms
+  gender: f
+  family_name: test
+  given_name: test
+  born_on: 1987-07-24
+  type: adult
